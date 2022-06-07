@@ -4,4 +4,6 @@ sessionInfo()
 ls()
 
 usethis::create_github_token()
-# ghp_25amA5OkkHVuZMLwiSvfLV8g1I9Xm64N7j9W
+gitcreds::gitcreds_set() # error message...why?
+
+# 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
